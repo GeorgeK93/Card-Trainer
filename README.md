@@ -1,7 +1,11 @@
 # Card-Trainer
+
 Interactive card-tracking trainer app. Helps players practice counting suits and tracking cards across 13 rounds. 
 
+---
+
 ## Features
+
 - Simulates a 4-player card game
 - Displays only your hand
 - Lets you choose a card to play each round
@@ -9,16 +13,31 @@ Interactive card-tracking trainer app. Helps players practice counting suits and
 - Includes quiz checkpoints to test your memory of remaining suits
 - Clean visual card display with color coded suits
 
+---
+
+## Live Demo
+
+Try the app on Streamlit: https://card-trainer.streamlit.app/
+
+---
+
 ## How to Run Locally
+
 **1- Clone the Repo**  
+'''bash
 git clone https://github.com/GeorgeK93/card-trainer.git  
 cd card-trainer  
+
 **2- Install Requirements**  
 pip install -r requirements.txt  
+
 **3- Run the app**  
 streamlit run leekha_app.py
 
+---
+
 ## Learning Goals
+
 This project was built to:
 - Reinforce Python fundamentals (functions, loops, conditionals, data structures)
 - Practice working with stateful Streamlit apps
