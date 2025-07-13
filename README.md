@@ -24,7 +24,6 @@ Try the app on Streamlit: https://card-trainer.streamlit.app/
 ## How to Run Locally
 
 **1- Clone the Repo**  
-'''bash
 git clone https://github.com/GeorgeK93/card-trainer.git  
 cd card-trainer  
 
